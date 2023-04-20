@@ -1,13 +1,6 @@
 /*  your css code here. If applicable */
-h1{
-        font-size: 18px;
-        margin: 10px 22px;
-        margin-bottom: 1px;
-      }
-      /* .table{
-        width: 400px;
-        height: 100px;
-      } */
+
+     
        table,th,td{
         background-color: yellow;
         border: 2px solid black;
